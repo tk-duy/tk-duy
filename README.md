@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ### WELCOME TO MY PAGE 👋
-Hi there, it's Duy. I'm on third-year undergraduate, majoring in Engineering Physics. <br>
+Hi there, it's Duy. I'm currently studying in my final year of a Engineering Physics degree. <br>
 ## 📫 Contact me via: 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/tk-duy/)
 [![Instagram](https://i.imgur.com/Lk0sf5f.png) Instagram](https://www.instagram.com/trnkhnduy/)
